@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/jirenbookstorereact/static/css/main.6f7346ca.css",
+    "main.js": "/jirenbookstorereact/static/js/main.641df643.js",
+    "static/js/453.419a5d54.chunk.js": "/jirenbookstorereact/static/js/453.419a5d54.chunk.js",
+    "static/media/Infinity-logo.png": "/jirenbookstorereact/static/media/Infinity-logo.f6929a72d0d30b78c58a.png",
+    "static/media/2004.gif": "/jirenbookstorereact/static/media/2004.7c71c1e89303b5276e3b.gif",
+    "static/media/1001.gif": "/jirenbookstorereact/static/media/1001.2f7bd11fa7fc8cd8e786.gif",
+    "static/media/1.gif": "/jirenbookstorereact/static/media/1.4d5e2b1da684c32b9a57.gif",
+    "static/media/2003.gif": "/jirenbookstorereact/static/media/2003.db642e806c7097120849.gif",
+    "static/media/2008.gif": "/jirenbookstorereact/static/media/2008.ca86423758ca6a2b7914.gif",
+    "static/media/2.gif": "/jirenbookstorereact/static/media/2.4d37245192aa978a9ba3.gif",
+    "static/media/1003.gif": "/jirenbookstorereact/static/media/1003.736e54a6061437c67814.gif",
+    "static/media/3.gif": "/jirenbookstorereact/static/media/3.4cf7cdc7fb9fc491bc0e.gif",
+    "static/media/1004.gif": "/jirenbookstorereact/static/media/1004.fbe9a793c40b2eab1947.gif",
+    "static/media/classics.jpg": "/jirenbookstorereact/static/media/classics.3eb59cfce62548ebfd19.jpg",
+    "static/media/2006.gif": "/jirenbookstorereact/static/media/2006.c55dc827199e1cbf2d3e.gif",
+    "static/media/2001.gif": "/jirenbookstorereact/static/media/2001.f313f32a6c1bf466011c.gif",
+    "static/media/1002.gif": "/jirenbookstorereact/static/media/1002.aff4931862342eee0074.gif",
+    "static/media/4.gif": "/jirenbookstorereact/static/media/4.61201036bc38fa1912f5.gif",
+    "static/media/2007.gif": "/jirenbookstorereact/static/media/2007.3865dde5ae2e2bc7c4ab.gif",
+    "static/media/2002.gif": "/jirenbookstorereact/static/media/2002.771d8feeaa3a32381dc7.gif",
+    "index.html": "/jirenbookstorereact/index.html",
+    "main.6f7346ca.css.map": "/jirenbookstorereact/static/css/main.6f7346ca.css.map",
+    "main.641df643.js.map": "/jirenbookstorereact/static/js/main.641df643.js.map",
+    "453.419a5d54.chunk.js.map": "/jirenbookstorereact/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7346ca.css",
+    "static/js/main.641df643.js"
+  ]
+}
